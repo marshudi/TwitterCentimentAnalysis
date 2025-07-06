@@ -1,9 +1,9 @@
 # Twitter Sentiment Analysis
 
 **Authors:**
-   1-Mohammed Amour Al-Marshudi
-   2-Israa Dawood Al-Rashdi
-   3-Rawanq Mohammed Al-Harthy 
+1- Mohammed Amour Al-Marshudi  <br>
+2- Israa Dawood Al-Rashdi  <br>
+3- Rawanq Mohammed Al-Harthy  <br>
 **Date:** 05-May-2024
 
 ## Project Overview
@@ -105,6 +105,4 @@ The script will:
 * Analytics Vidhya Twitter Sentiment Analysis Dataset: [https://datahack.analyticsvidhya.com/contest/practice-problem-twitter-sentiment-analysis/](https://datahack.analyticsvidhya.com/contest/practice-problem-twitter-sentiment-analysis/)
 * Random Forest algorithm overview on Analytics Vidhya blog.
 
----
 
-*Generated based on project code and accompanying reports.*
