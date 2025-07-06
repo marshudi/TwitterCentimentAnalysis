@@ -1,9 +1,9 @@
 # Twitter Sentiment Analysis
 
-**Authors:**
-1- Mohammed Amour Al-Marshudi  <br>
-2- Israa Dawood Al-Rashdi  <br>
-3- Rawanq Mohammed Al-Harthy  <br>
+**Authors:**<br>
+   1- Mohammed Amour Al-Marshudi  <br>
+   2- Israa Dawood Al-Rashdi  <br>
+   3- Rawanq Mohammed Al-Harthy  <br>
 **Date:** 05-May-2024
 
 ## Project Overview
